@@ -1,0 +1,14 @@
+.tit
+{
+    color: #710293;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Gulzar&family=Itim&family=Kanit:wght@300&family=Roboto:wght@100&family=Rubik+Maze&family=Rubik+Puddles&display=swap');
+*
+{
+    font-family: 'Itim', cursive;
+}
+body
+{
+    background-color: lightgray;
+}
